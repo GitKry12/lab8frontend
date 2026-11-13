@@ -2,6 +2,8 @@
 
 Next.js 16.4.6, React 19.3.1 и TypeScript. Фронтенд создан заново для Lab 8. Две серверные страницы показывают одинаковый учебный план студента 2 из PostgreSQL через API.
 
+Репозитории: [backend — lab8](https://github.com/GitKry12/lab8) · [frontend — lab8frontend](https://github.com/GitKry12/lab8frontend).
+
 ## Запуск
 
 Нужен Node.js 20.9+ (проверено на 24.21) и запущенный backend Lab 8 на порту 8000. В PowerShell из этой папки:
